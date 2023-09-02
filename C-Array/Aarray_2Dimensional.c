@@ -9,7 +9,10 @@ getArray()
 getArray()
 1. Add array 1 and array 2
 displayArray()
-1. Display the array values*/#include <stdio.h>
+1. Display the array values*/
+
+
+#include <stdio.h>
 void getArray(int a[100][100],z[100][100],int n);
 void addArray(int a[100][100],z[100][100],int n);
 void displayArray(int sum[][100]);
