@@ -8,7 +8,6 @@ Output: Sorted array:
 50, 40, 30, 20, 10
 */
 
-
 #include<stdio.h>
 void main(){
     int size,a[100],i,j,temp;
