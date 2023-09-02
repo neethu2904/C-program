@@ -1,4 +1,15 @@
-#include <stdio.h>
+/*Write a program to add the values of two 2D arrays
+a. Program should contains 3 functions including the main function
+main()
+1. Call function getArray()
+2. Call function addArray()
+3. Call function displayArray()
+getArray()
+1. Get values to the array
+getArray()
+1. Add array 1 and array 2
+displayArray()
+1. Display the array values*/#include <stdio.h>
 void getArray(int a[100][100],z[100][100],int n);
 void addArray(int a[100][100],z[100][100],int n);
 void displayArray(int sum[][100]);
