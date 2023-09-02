@@ -7,6 +7,7 @@ Input: 11, 20, 34, 50, 33
 Output: Number of even numbers in the given array is 3
 */
 
+
 #include <stdio.h>
 void main()
 {
